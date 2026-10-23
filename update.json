@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "2.0",
+  "releaseTitle": "Actualización Sistema Brenar Lácteos v2.0",
+  "releaseNotes": "• Pestaña Gastos con 7 categorías (incluyendo Compra perecedero)\n• Inventario con casillas de selección múltiple y Seleccionar Todo para eliminar\n• Historial de ventas optimizado en vista Fichas y Tabla con Saldo Pendiente y estado Crédito\n• Consulta automática de actualizaciones conectada a GitHub",
+  "apkUrl": "https://github.com/dperez1626/brenar-actualizaciones/releases/download/v2.0/brenar-v2.0.apk",
+  "isMandatory": false
+}
